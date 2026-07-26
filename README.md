@@ -1,10 +1,8 @@
 <div align="center">
 
-### Hi there 👋
+# Hi there 👋 Soham Kale here
 
-# Soham Kale
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student+%7C+3rd+Year" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%7C+3rd+Year;IoT+Enthusiast;AI%2FML;Data+Analyst" alt="Typing SVG" />
 
 </div>
 
