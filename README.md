@@ -1,8 +1,10 @@
 <div align="center">
 
+### Hi there 👋
+
 # Soham Kale
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Computer+Engineering;IoT+Enthusiast;AI%2FML;Data+Analyst" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student+%7C+3rd+Year" alt="Typing SVG" />
 
 </div>
 
@@ -18,15 +20,23 @@ I'm a 3rd year Computer Engineering student with a strong interest in building c
 
 <div align="center">
 
-![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SohamKale83&show_icons=true&theme=radical&hide_border=true)
+<img src="https://profile-counter.glitch.me/SohamKale83/count.svg" alt="Profile Views" width="600" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamKale83&layout=compact&theme=radical&hide_border=true)
+<br><br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SohamKale83&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=SohamKale83&show_icons=true&theme=radical&hide_border=true&card_width=500" alt="Soham's GitHub Stats" width="500" />
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SohamKale83&theme=radical&no-frame=true&row=1&column=6)
+<br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SohamKale83&color=blue&style=flat-square)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamKale83&layout=compact&theme=radical&hide_border=true&card_width=500" alt="Top Languages" width="500" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamKale83&theme=radical&hide_border=true" alt="GitHub Streak" width="500" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SohamKale83&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="Trophies" width="700" />
 
 </div>
 
@@ -65,6 +75,7 @@ I'm a 3rd year Computer Engineering student with a strong interest in building c
 <img src="docs/images/touch_typing_certificate.png" alt="Touch Typing Certificate" width="500">
 
 </div>
+
 ---
 
 ## 📫 Connect with Me
