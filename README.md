@@ -65,10 +65,6 @@ I'm a 3rd year Computer Engineering student with a strong interest in building c
 <img src="docs/images/touch_typing_certificate.png" alt="Touch Typing Certificate" width="500">
 
 </div>
-
-> [!NOTE]
-> To display your certificate here, upload the image/PDF screenshot to a folder in this repo (e.g. `docs/images/touch_typing_certificate.png`) and make sure the filename above matches exactly.
-
 ---
 
 ## 📫 Connect with Me
