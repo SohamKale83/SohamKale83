@@ -62,6 +62,18 @@ I'm a 3rd year Computer Engineering student with a strong interest in building c
 
 ---
 
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SohamKale83/SohamKale83/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="700" />
+
+</div>
+
+---
+
 ## 🎯 Interests & Hobbies
 
 **Interests**
