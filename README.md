@@ -11,14 +11,12 @@ Profile views :
 
 </div>
 
----
-
 ## 🧑‍💻 About Me
 
-
-I'm a 3rd year Computer Engineering student with a strong interest in building cool projects that blend hardware and software — always looking for the next thing to design, break, and rebuild better.
-
----
+- 🎓 I'm a 3rd year Computer Engineering student, currently sharpening my programming skills and exploring how software and hardware come together to build real, working systems.
+- 🔩 Deeply interested in **hardware projects** — especially **mechatronics** — and I'd love to eventually build things like drones from the ground up.
+- ⌨️ Outside of coding, I enjoy **touch typing** and **speed cubing** — you can check my typing speed live on [Monkeytype](https://monkeytype.com/profile/Soham_Kale) 🏎️
+- 🌱 **Currently focused on**: learning new technologies and working on cool, hands-on projects that push me to learn by building.
 
 ## 📊 GitHub Stats 
 
@@ -62,31 +60,11 @@ I'm a 3rd year Computer Engineering student with a strong interest in building c
 
 ---
 
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SohamKale83/SohamKale83/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="700" />
-
-</div>
-
----
-
-## 🎯 Interests & Hobbies
-
-**Interests**
-- 🚁 Love working on mechatronics projects — especially building drones and similar hardware-driven builds
-
-**Hobbies**
-- 🧩 Solving Rubik's cubes
-- ⌨️ Touch typing
-
-<div align="center">
-
-<!-- Add your touch typing certificate below by uploading the image to your repo and linking it here -->
-<img src="docs/images/touch_typing_certificate.png" alt="Touch Typing Certificate" width="500">
+<img src="https://raw.githubusercontent.com/SohamKale83/SohamKale83/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="900" />
 
 </div>
 
