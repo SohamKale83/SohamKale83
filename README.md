@@ -3,10 +3,11 @@
 # Hi there 👋 — I'm Soham Kale.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%7C+3rd+Year;IoT+Enthusiast;AI%2FML;Data+Analyst" alt="Typing SVG" />
-<br>
+<br><br>
 Profile views : 
-<br>
+<br><br>
 <img src="https://count.getloli.com/get/@SohamKale83?theme=rule34" alt="Profile Views" width="400" />
+<br>
 
 </div>
 
