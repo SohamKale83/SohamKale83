@@ -1,8 +1,12 @@
 <div align="center">
 
-# Hi there 👋 Soham Kale here
+# Hi there 👋 — I'm Soham Kale.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%7C+3rd+Year;IoT+Enthusiast;AI%2FML;Data+Analyst" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%7C+3rd+Year;IoT+Enthusiast;AI%2FML;Data+Analyst" alt="Typing SVG" />
+<br>
+Profile views : 
+<br>
+<img src="https://count.getloli.com/get/@SohamKale83?theme=rule34" alt="Profile Views" width="400" />
 
 </div>
 
@@ -17,10 +21,6 @@ I'm a 3rd year Computer Engineering student with a strong interest in building c
 ## 📊 GitHub Stats & Widgets
 
 <div align="center">
-
-<img src="https://profile-counter.glitch.me/SohamKale83/count.svg" alt="Profile Views" width="600" />
-
-<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=SohamKale83&show_icons=true&theme=radical&hide_border=true&card_width=500" alt="Soham's GitHub Stats" width="500" />
 
