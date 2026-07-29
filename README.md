@@ -19,23 +19,25 @@ I'm a 3rd year Computer Engineering student with a strong interest in building c
 
 ---
 
-## 📊 GitHub Stats & Widgets
+## 📊 GitHub Stats 
 
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=SohamKale83&show_icons=true&theme=radical&hide_border=true&card_width=500" alt="Soham's GitHub Stats" width="500" />
 
-<br><br>
-
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SohamKale83&layout=compact&theme=radical&hide_border=true&card_width=500" alt="Top Languages" width="500" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamKale83&theme=radical&hide_border=true" alt="GitHub Streak" width="500" />
+<img src="https://streak-stats.demolab.com/?user=SohamKale83&theme=radical&hide_border=true" alt="GitHub Streak" width="500" />
 
 <br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=SohamKale83&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="Trophies" width="700" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SohamKale83&theme=react-dark&hide_border=true" alt="Activity Graph" width="900" /> </div>
 
 </div>
 
@@ -56,6 +58,20 @@ I'm a 3rd year Computer Engineering student with a strong interest in building c
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
+
+---
+
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. ℹ️ Assigned PR [#6542](https://github.com/hoppscotch/hoppscotch/pull/6542) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. ℹ️ Assigned PR [#6524](https://github.com/hoppscotch/hoppscotch/pull/6524) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+3. ℹ️ Assigned issue [#5967](https://github.com/hoppscotch/hoppscotch/issues/5967) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+4. ℹ️ Assigned PR [#6538](https://github.com/hoppscotch/hoppscotch/pull/6538) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+5. ℹ️ Assigned PR [#6534](https://github.com/hoppscotch/hoppscotch/pull/6534) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+<!--END_SECTION:activity-->
 
 ---
 
