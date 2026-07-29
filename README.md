@@ -14,6 +14,7 @@ Profile views :
 
 ## 🧑‍💻 About Me
 
+
 I'm a 3rd year Computer Engineering student with a strong interest in building cool projects that blend hardware and software — always looking for the next thing to design, break, and rebuild better.
 
 ---
@@ -22,11 +23,11 @@ I'm a 3rd year Computer Engineering student with a strong interest in building c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SohamKale83&show_icons=true&theme=radical&hide_border=true&card_width=500" alt="Soham's GitHub Stats" width="500" />
+<img src="https://github-stats-extended.vercel.app/api?username=SohamKale83&show_icons=true&theme=radical&hide_border=true&card_width=500" alt="Soham's GitHub Stats" width="500" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamKale83&layout=compact&theme=radical&hide_border=true&card_width=500" alt="Top Languages" width="500" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SohamKale83&layout=compact&theme=radical&hide_border=true&card_width=500" alt="Top Languages" width="500" />
 
 <br><br>
 
